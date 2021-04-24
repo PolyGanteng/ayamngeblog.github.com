@@ -1,0 +1,63 @@
+.menubtn
+{
+background-color: blue;
+color: white;
+border: none;
+cursor: pointer;
+padding: 20px;
+margin-top: 20px;
+}
+
+.menubtn: hover;
+{
+background-color: red;
+}
+.dropdown
+{
+display: inline-table;
+}
+.anakdd
+{
+display: none;
+background-color: blue;
+min-width: 200px
+}
+.anakdd a
+{
+color: white;
+padding: 20px;
+text-decoration: none;
+display:block;
+}
+.dropdown:hover
+.anakdd
+{
+display: block;
+}
+.bghdr
+{
+background-color: aqua;
+}
+.pstnama
+{
+width: 100%;
+text-align: center;
+background-color: #00bfff;
+color: #e0ffff;
+font-family: fantasy;
+}
+.logo
+{
+
+}
+.beranda
+{
+display: inline-table;
+font-family: sans-serif;
+width: 100%;
+}
+.kontak
+{
+display: block;
+font-style: italic;
+}
